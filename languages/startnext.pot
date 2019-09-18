@@ -1,0 +1,737 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-06-26 21:05+0600\n"
+"PO-Revision-Date: 2019-04-11 12:26+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;es_html__;esc_html_x;esc_html;esc_html_e;"
+"wp_kses_post\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+
+#: 404.php:19
+msgid "404"
+msgstr ""
+
+#: comments.php:58
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:248
+msgid ""
+"After import demo, just set static homepage from settings>reading and check "
+"widgets & menus."
+msgstr ""
+
+#: inc/cmb2.php:8
+msgid "Projects Info"
+msgstr ""
+
+#: inc/cmb2.php:14
+msgid "Client Name Label"
+msgstr ""
+
+#: inc/cmb2.php:19
+msgid "Client Name"
+msgstr ""
+
+#: inc/cmb2.php:25
+msgid "Category Label"
+msgstr ""
+
+#: inc/cmb2.php:31
+msgid "Project Completed Date Label"
+msgstr ""
+
+#: inc/cmb2.php:36
+msgid "Project Completed Date"
+msgstr ""
+
+#: inc/cmb2.php:42
+msgid "Location Label"
+msgstr ""
+
+#: inc/cmb2.php:47
+msgid "Location"
+msgstr ""
+
+#: inc/cmb2.php:53
+msgid "Live Preview Link"
+msgstr ""
+
+#: inc/cmb2.php:56
+msgid "#"
+msgstr ""
+
+#: inc/cmb2.php:59
+msgid "Attactment File"
+msgstr ""
+
+#: inc/cmb2.php:66 inc/cmb2.php:93 inc/cmb2.php:170
+msgid "Select card Icon"
+msgstr ""
+
+#: inc/cmb2.php:68 inc/cmb2.php:95 inc/cmb2.php:172
+msgid "Select Font Awesome icon"
+msgstr ""
+
+#: inc/cmb2.php:86
+msgid "Feature Info"
+msgstr ""
+
+#: inc/cmb2.php:103 inc/cmb2.php:180
+msgid "Icon Color"
+msgstr ""
+
+#: inc/cmb2.php:107 inc/cmb2.php:184
+msgid "default #44ce6f"
+msgstr ""
+
+#: inc/cmb2.php:110 inc/cmb2.php:187
+msgid "Icon Backgorund Color"
+msgstr ""
+
+#: inc/cmb2.php:114 inc/cmb2.php:191
+msgid "default #cdf1d8"
+msgstr ""
+
+#: inc/cmb2.php:117
+msgid "Feature FAQ Content"
+msgstr ""
+
+#: inc/cmb2.php:122
+msgid "Feature FAQ Image"
+msgstr ""
+
+#: inc/cmb2.php:132
+msgid "Feature FAQ "
+msgstr ""
+
+#: inc/cmb2.php:134 inc/cmb2.php:211
+msgid "FAQ Title & Description"
+msgstr ""
+
+#: inc/cmb2.php:135 inc/cmb2.php:212
+msgid "Add New"
+msgstr ""
+
+#: inc/cmb2.php:136 inc/cmb2.php:213
+msgid "Remove"
+msgstr ""
+
+#: inc/cmb2.php:163
+msgid "Service Info"
+msgstr ""
+
+#: inc/cmb2.php:194
+msgid "Service FAQ Content"
+msgstr ""
+
+#: inc/cmb2.php:199
+msgid "Service FAQ Image"
+msgstr ""
+
+#: inc/cmb2.php:209
+msgid "Service FAQ "
+msgstr ""
+
+#: inc/cmb2.php:238
+msgid "Page Default Banner"
+msgstr ""
+
+#: inc/cmb2.php:244
+msgid "Page Banner Hide?"
+msgstr ""
+
+#: inc/cmb2.php:247
+msgid "Yes"
+msgstr ""
+
+#: inc/cmb2.php:250
+msgid "Enable Nav background color white."
+msgstr ""
+
+#: inc/cmb2.php:253
+msgid "Default background color transparent"
+msgstr ""
+
+#: inc/cmb2.php:260
+msgid "You can choose individual color for this page."
+msgstr ""
+
+#: inc/template-tags.php:29
+#, php-format
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:45
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:69
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:82
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:99 template-parts/content-page.php:32
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/theme-options-cmb.php:52
+msgid ""
+"<b>Before select body background color please enable \"Boxed Layout\" </b>."
+msgstr ""
+
+#: inc/theme-options-cmb.php:71
+msgid ""
+"<b>Before select body background image please enable \"Boxed Layout\" </b>."
+msgstr ""
+
+#: inc/theme-options-cmb.php:120
+msgid "<b>Upload a logo for your site</b>."
+msgstr ""
+
+#: inc/theme-options-cmb.php:138
+msgid "<b>Upload a logo for mobile device (optional)</b>."
+msgstr ""
+
+#: inc/theme-options-cmb.php:154
+msgid "<b>Upload a favicon icon  for your site</b>."
+msgstr ""
+
+#: inc/theme-options-cmb.php:192
+msgid "if you do not add any item in sidebar then post show 3 column."
+msgstr ""
+
+#: inc/theme-options-cmb.php:196
+msgid "One Column"
+msgstr ""
+
+#: inc/theme-options-cmb.php:197
+msgid "Two Column"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:393
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:394
+#: lib/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:1206
+#: lib/class-tgm-plugin-activation.php:3033
+msgid "and"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2639
+#: template-parts/post-formats/content-status.php:37
+msgid "Status"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: lib/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/recommended-plugin.php:14
+msgid "StartNext Toolkit"
+msgstr ""
+
+#: lib/recommended-plugin.php:24
+msgid "WPBakery Page Builder"
+msgstr ""
+
+#: lib/recommended-plugin.php:34
+msgid "CMB2"
+msgstr ""
+
+#: lib/recommended-plugin.php:39
+msgid "CMB2 Field Type: Font Awesome"
+msgstr ""
+
+#: lib/recommended-plugin.php:44
+msgid "WooCommerce"
+msgstr ""
+
+#: lib/recommended-plugin.php:49
+msgid "Contact Form 7"
+msgstr ""
+
+#: lib/recommended-plugin.php:54
+msgid "Newsletter"
+msgstr ""
+
+#: lib/recommended-plugin.php:59
+msgid "One Click Demo Import"
+msgstr ""
+
+#: lib/recommended-plugin.php:64
+msgid "Google Typography"
+msgstr ""
+
+#: search.php:17
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: single-project.php:88
+msgid "Live Preview"
+msgstr ""
+
+#: template-parts/content-none.php:12
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:22
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:35
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:42
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content.php:37
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/post-formats/content-aside.php:38
+msgid "Aside"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:27
+msgid "Cart totals"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:32
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:54
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:70
+#, php-format
+msgid "(estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:91 woocommerce/cart/cart.php:33
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:29
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:30
+msgid "Name"
+msgstr ""
+
+#: woocommerce/cart/cart.php:31
+msgid "Unit Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:32
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:69
+msgid "&nbsp;"
+msgstr ""
+
+#: woocommerce/cart/cart.php:122
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:141
+msgid "Coupon:"
+msgstr ""
+
+#: woocommerce/cart/cart.php:147
+msgid "Update cart"
+msgstr ""
+
+#: woocommerce/cart/proceed-to-checkout-button.php:26
+msgid "Proceed to checkout"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:24
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:28
+msgid "Billing details"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:53
+msgid "Create an account?"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:49
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:26
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:57
+#: woocommerce/single-product/tabs/additional-information.php:24
+msgid "Additional information"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:44
+msgid "Update totals"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:33
+msgid "Login"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:40
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:44
+#: woocommerce/myaccount/form-login.php:94
+msgid "Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:52
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:55
+msgid "Log in"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:58
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:71
+#: woocommerce/myaccount/form-login.php:108
+msgid "Register"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:80
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:87
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:100
+msgid "A password will be sent to your email address."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:28
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:38
+msgid "Reset password"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:39
+msgid "Customer Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:66
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:78
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:78
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:80
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:90
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:119
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/simple.php:50
+#: woocommerce/single-product/add-to-cart/variation-add-to-cart-button.php:38
+msgid "Buy Now"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:24
+msgid "Description"
+msgstr ""
